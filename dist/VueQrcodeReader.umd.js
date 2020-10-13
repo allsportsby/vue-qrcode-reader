@@ -291,7 +291,7 @@ module.exports = !DESCRIPTORS && !fails(function () {
 
 "use strict";
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"14361134-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/QrcodeStream.vue?vue&type=template&id=77fe1378&scoped=true&lang=html&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"825769b6-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/QrcodeStream.vue?vue&type=template&id=77fe1378&scoped=true&lang=html&
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"wrapper"},[_c('video',{directives:[{name:"show",rawName:"v-show",value:(_vm.shouldScan),expression:"shouldScan"}],ref:"video",staticClass:"camera",attrs:{"autoplay":"","muted":"","playsinline":""},domProps:{"muted":true}}),_c('canvas',{directives:[{name:"show",rawName:"v-show",value:(!_vm.shouldScan),expression:"!shouldScan"}],ref:"pauseFrame",staticClass:"pause-frame"}),_c('canvas',{ref:"trackingLayer",staticClass:"tracking-layer"}),_c('div',{staticClass:"overlay"},[_vm._t("default")],2)])}
 var staticRenderFns = []
 
@@ -5662,7 +5662,7 @@ module.exports = function (it) {
 
 "use strict";
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"14361134-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/QrcodeCapture.vue?vue&type=template&id=b4532170&lang=html&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"825769b6-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/QrcodeCapture.vue?vue&type=template&id=b4532170&lang=html&
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('input',{attrs:{"type":"file","name":"image","accept":"image/*","capture":"environment","multiple":""},on:{"change":_vm.onChangeInput}})}
 var staticRenderFns = []
 
@@ -8514,7 +8514,7 @@ exports.BROKEN_CARET = fails(function () {
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return keepScanning; });
 /* harmony import */ var regenerator_runtime_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("96cf");
 /* harmony import */ var regenerator_runtime_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(regenerator_runtime_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _Users_macbook_src_lib_vue_qrcode_reader_node_modules_babel_runtime_helpers_esm_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("1da1");
+/* harmony import */ var _Users_macbook_src_lib_allsportsby_vue_qrcode_reader_node_modules_babel_runtime_helpers_esm_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("1da1");
 /* harmony import */ var callforth__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("c036");
 
 
@@ -8528,7 +8528,7 @@ function scan(_x, _x2) {
  */
 
 function _scan() {
-  _scan = Object(_Users_macbook_src_lib_vue_qrcode_reader_node_modules_babel_runtime_helpers_esm_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])( /*#__PURE__*/regeneratorRuntime.mark(function _callee(Worker, imageData) {
+  _scan = Object(_Users_macbook_src_lib_allsportsby_vue_qrcode_reader_node_modules_babel_runtime_helpers_esm_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])( /*#__PURE__*/regeneratorRuntime.mark(function _callee(Worker, imageData) {
     var worker, event;
     return regeneratorRuntime.wrap(function _callee$(_context) {
       while (1) {
@@ -11120,7 +11120,7 @@ module.exports = TO_STRING_TAG_SUPPORT ? classofRaw : function (it) {
 /* harmony import */ var core_js_modules_es_string_starts_with__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_string_starts_with__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var regenerator_runtime_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__("96cf");
 /* harmony import */ var regenerator_runtime_runtime__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(regenerator_runtime_runtime__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _Users_macbook_src_lib_vue_qrcode_reader_node_modules_babel_runtime_helpers_esm_asyncToGenerator__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__("1da1");
+/* harmony import */ var _Users_macbook_src_lib_allsportsby_vue_qrcode_reader_node_modules_babel_runtime_helpers_esm_asyncToGenerator__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__("1da1");
 /* harmony import */ var _errors_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__("1cc0");
 /* harmony import */ var callforth__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__("c036");
 
@@ -11158,7 +11158,7 @@ function imageDataFromUrl(_x) {
 }
 
 function _imageDataFromUrl() {
-  _imageDataFromUrl = Object(_Users_macbook_src_lib_vue_qrcode_reader_node_modules_babel_runtime_helpers_esm_asyncToGenerator__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])( /*#__PURE__*/regeneratorRuntime.mark(function _callee(url) {
+  _imageDataFromUrl = Object(_Users_macbook_src_lib_allsportsby_vue_qrcode_reader_node_modules_babel_runtime_helpers_esm_asyncToGenerator__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])( /*#__PURE__*/regeneratorRuntime.mark(function _callee(url) {
     var image;
     return regeneratorRuntime.wrap(function _callee$(_context) {
       while (1) {
@@ -11195,7 +11195,7 @@ function imageDataFromFile(_x2) {
 }
 
 function _imageDataFromFile() {
-  _imageDataFromFile = Object(_Users_macbook_src_lib_vue_qrcode_reader_node_modules_babel_runtime_helpers_esm_asyncToGenerator__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])( /*#__PURE__*/regeneratorRuntime.mark(function _callee2(file) {
+  _imageDataFromFile = Object(_Users_macbook_src_lib_allsportsby_vue_qrcode_reader_node_modules_babel_runtime_helpers_esm_asyncToGenerator__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])( /*#__PURE__*/regeneratorRuntime.mark(function _callee2(file) {
     var reader, result, dataURL;
     return regeneratorRuntime.wrap(function _callee2$(_context2) {
       while (1) {
@@ -11441,7 +11441,7 @@ module.exports = NATIVE_SYMBOL
 
 "use strict";
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"14361134-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/QrcodeDropZone.vue?vue&type=template&id=d58a83ac&lang=html&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"825769b6-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/QrcodeDropZone.vue?vue&type=template&id=d58a83ac&lang=html&
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{on:{"drop":function($event){$event.preventDefault();$event.stopPropagation();return _vm.onDrop($event)},"dragenter":function($event){$event.preventDefault();$event.stopPropagation();return _vm.onDragOver(true)},"dragleave":function($event){$event.preventDefault();$event.stopPropagation();return _vm.onDragOver(false)},"dragover":function($event){$event.preventDefault();$event.stopPropagation();}}},[_vm._t("default")],2)}
 var staticRenderFns = []
 
