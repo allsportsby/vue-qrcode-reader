@@ -9,7 +9,7 @@ module.exports = {
   ],
 
   themeConfig: {
-    repo: 'gruhn/vue-qrcode-reader',
+    repo: 'snsanich/vue-qrcode-reader',
 
     sidebar: {
       '/demos/': [
